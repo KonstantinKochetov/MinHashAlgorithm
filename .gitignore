@@ -1,0 +1,14 @@
+/.idea
+/.cache*
+/.settings
+/.worksheet
+/target
+/.project
+
+
+.idea
+.cache*
+.settings
+.worksheet
+target
+.project
